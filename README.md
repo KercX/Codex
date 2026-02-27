@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="260" alt="Codex l Moon Logo"/>
+  <img src="assets/logo.svg" width="260" alt="Codex l Moon Logo"/>
 </p>
 
 <h1 align="center">Codex l</h1>
