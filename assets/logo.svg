@@ -1,0 +1,27 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="moonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4cc9f0"/>
+      <stop offset="100%" stop-color="#4361ee"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="180" fill="#0b0f1a"/>
+
+  <!-- Moon shape -->
+  <path d="M250 80
+           A120 120 0 1 0 250 320
+           A90 120 0 1 1 250 80"
+        fill="url(#moonGradient)"/>
+
+  <!-- Text -->
+  <text x="200" y="370"
+        font-size="42"
+        text-anchor="middle"
+        fill="#4cc9f0"
+        font-family="Arial"
+        font-weight="bold">
+    Codex L
+  </text>
+</svg>
