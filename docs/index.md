@@ -22,3 +22,17 @@ cube = Object3D("Cube")
 
 scene.add(cube)
 scene.render()
+
+
+.md-header {
+    background-color: #0f172a;
+}
+
+.md-footer {
+    background-color: #0f172a;
+}
+
+.md-typeset h1 {
+    color: #38bdf8;
+}
+
