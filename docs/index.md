@@ -1,19 +1,17 @@
-# 🌙 Codex 
+# 🌙 Codex L
 
-Codex is a modular 3D engine for scenes, animation and effects.
+Welcome to the official documentation of **Codex L**.
 
----
+A modular 3D engine supporting:
 
-## Features
-
-- Scene system
-- Animation timeline
-- Particle effects
-- Real-time rendering
+- Scene System
+- Animation Timeline
+- Particle Effects
+- Real-time Rendering
 
 ---
 
-## Quick Example
+## 🚀 Quick Example
 
 ```python
 from engine.core.scene import Scene
