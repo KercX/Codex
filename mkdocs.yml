@@ -1,0 +1,31 @@
+site_name: Codex L
+site_description: Modular 3D Engine Documentation
+site_author: Brat1shkaKercIX
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: cyan
+    - scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - API: api.md
+
+extra_css:
+  - stylesheets/extra.css
