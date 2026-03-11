@@ -106,3 +106,11 @@ Clone repository:
 ```bash
 git clone https://github.com/yourname/Codex-l
 cd Codex-l
+```
+
+##THE NEW VERSION
+
+#CODEX SUPER
+
+This the pro version to codex and new add effects and add models to
+already,this no joke
