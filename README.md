@@ -97,12 +97,15 @@ Designed for:
 ✔ Extension support  
 ✔ Future plugin marketplace  
 
----
 
 
-##THE NEW VERSION
+## THE NEW VERSION
 
-#CODEX SUPER
+# CODEX SUPER
 
 This the pro version to codex and new add effects and add models to
 already,this no joke you can download version on the public release to max codex already DOWNLOAD
+
+Control new in the Codex Max
+and big animations to your project in Codex the yes
+Not scam to version this no fake your are click video in the documention
